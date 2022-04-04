@@ -1,6 +1,6 @@
 # postgres-docker-template
 
-This repository provides a simple docker-compose file template to run postgres using docker. 
+This repository provides a simple `docker-compose.yml` file template to run postgres using docker. 
 
 ### Getting started
 
