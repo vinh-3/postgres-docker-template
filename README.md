@@ -2,7 +2,7 @@
 
 This repository provides a simple `docker-compose.yml` file template to run postgres using docker. 
 
-### Getting started
+## Usage
 
 The only dependency is docker (versions 19.03.0+).
 
